@@ -275,6 +275,7 @@ HTML = r"""<!DOCTYPE html>
 <meta name="description" content="Şehrine göre anlık hava durumu, saatlik yağış tahmini, 7 günlük tahmin ve ne giyeceğine dair giyim önerisi. Ücretsiz hava durumu uygulaması.">
 <meta name="keywords" content="hava durumu, saatlik hava durumu, yağış tahmini, giyim önerisi, ne giyeceğim, 7 günlük hava durumu">
 <link rel="canonical" href="__SITE__/">
+<meta name="google-site-verification" content="WvC4nrYoly4ksP66FpWEhkJl3Ud_SDObnYR9pgt-FzU" />
 <meta property="og:type" content="website">
 <meta property="og:title" content="Hava Durumu ve Giyim Önerisi">
 <meta property="og:description" content="Anlık hava, saatlik yağış, 7 günlük tahmin ve ne giyeceğin tek sayfada.">
